@@ -1,3 +1,5 @@
+[![tfsec](https://github.com/gordonmurray/terraform_aws_ec2_rds/actions/workflows/tfsec-analysis.yml/badge.svg)](https://github.com/gordonmurray/terraform_aws_ec2_rds/actions/workflows/tfsec-analysis.yml)
+
 # Terraform AWS EC2 RDS
 
 Using Terraform on AWS to create an EC2 instance that connects securely to an RDS instance.
